@@ -1,6 +1,6 @@
-# Vishal Kumar
+# Vishal Rohilla
 
-**Machine Learning Engineer & Full-Stack Developer**
+**AI Engineer & Backend Developer**
 
 Building AI-powered solutions for accessibility and communication technology.
 
