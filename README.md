@@ -1,6 +1,6 @@
 # Vishal Rohilla
 
-**AI Engineer & Backend Developer**
+**AI/ML & Backend Learner**
 
 Building AI-powered solutions for accessibility and communication technology.
 
@@ -33,5 +33,5 @@ Building AI-powered solutions for accessibility and communication technology.
 
 ## 📫 Connect
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+**Email:** [itsvishal0189@gmail.com](mailto:itsvishal0189@gmail.com)  
+**LinkedIn:** [linkedin.com/in/vishal-rohilla](https://www.linkedin.com/in/vishal-rohilla-1a870929a/)
