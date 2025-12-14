@@ -31,13 +31,13 @@ Building AI-powered solutions for accessibility and communication technology
 | A-Z   | 95.2%     | 94.8%  | 95.0%    |
 | 0-9   | 96.1%     | 95.5%  | 95.8%    |
 
-* 🤟 Supported Signs 
+* 🤟 Supported Signs  
 `A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9`
 
     
-    ![GitHub last commit](https://img.shields.io/github/last-commit/vishal0136/VediSpeak)
-    ![GitHub repo size](https://img.shields.io/github/repo-size/vishal0136/VediSpeak)
-    ![GitHub issues](https://img.shields.io/github/issues/vishal0136/VediSpeak)
+![GitHub last commit](https://img.shields.io/github/last-commit/vishal0136/VediSpeak)
+![GitHub repo size](https://img.shields.io/github/repo-size/vishal0136/VediSpeak)
+![GitHub issues](https://img.shields.io/github/issues/vishal0136/VediSpeak)
 
 ---
 
