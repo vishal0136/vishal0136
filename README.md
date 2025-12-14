@@ -2,7 +2,7 @@
 
 **AI/ML & Backend Learner**
 
-Building AI-powered solutions for accessibility and communication technology.
+Building AI-powered solutions for accessibility and communication technology
 
 ---
 
