@@ -24,14 +24,14 @@ Building AI-powered solutions for accessibility and communication technology
 
 ## 🏗️ System Architecture
 
-📊 Model Performance 
+* 📊 Model Performance 
 
 | Class | Precision | Recall | F1-Score |
 |-------|-----------|--------|----------|
 | A-Z   | 95.2%     | 94.8%  | 95.0%    |
 | 0-9   | 96.1%     | 95.5%  | 95.8%    |
 
-* 🤟 Supported Signs *
+* 🤟 Supported Signs 
 `A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 0 1 2 3 4 5 6 7 8 9`
 
     
