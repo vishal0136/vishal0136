@@ -22,6 +22,11 @@ Building AI-powered solutions for accessibility and communication technology
 - Supports 14+ Indian languages for TTS/STT
 - Built with PyTorch, MediaPipe, and Azure Cognitive Services
 
+
+![GitHub last commit](https://img.shields.io/github/last-commit/vishal0136/VediSpeak)
+![GitHub repo size](https://img.shields.io/github/repo-size/vishal0136/VediSpeak)
+![GitHub issues](https://img.shields.io/github/issues/vishal0136/VediSpeak)
+
 ---
 
 ## 📊 Stats
