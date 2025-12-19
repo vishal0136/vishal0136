@@ -3,54 +3,52 @@
 <h2>Vishal Rohilla</h2>
 
 <p style="color:#555;">
-AI/ML & Backend Developer • Python • Computer Vision
+Python • AI/ML • Computer Vision
 </p>
 
-<p style="max-width:620px; font-size:14px; color:#666;">
-Building intelligent and accessible systems by combining machine learning, computer vision, and backend engineering.
+<p style="max-width:600px; font-size:14px; color:#666;">
+I build intelligent systems that turn visual signals into meaningful communication.
 </p>
 
 </div>
 
 ---
 
-## About
+### What I’m Building
 
-I am a Python-focused AI/ML learner and backend developer interested in designing practical, real-world intelligent systems. My work primarily explores computer vision, accessibility-driven AI, and reliable backend integration.
-
----
-
-## Core Skills
-
-- **Languages:** Python, JavaScript  
-- **AI / ML:** PyTorch, OpenCV, MediaPipe  
-- **Backend:** Flask, REST APIs  
-- **Cloud:** Azure Cognitive Services  
-- **Tools:** Git, GitHub, VS Code, Jupyter  
+Most of my work explores how machine learning models can move beyond notebooks and become usable systems.  
+I’m especially interested in computer vision, accessibility-focused AI, and backend services that make models reliable in the real world.
 
 ---
 
-## Featured Project
+### Selected Work
 
-**VediSpeak**  
-AI-powered Indian Sign Language recognition system  
-https://github.com/vishal0136/VediSpeak
+**VediSpeak** — Indian Sign Language recognition system  
+https://github.com/vishal0136/VediSpeak  
 
-- Real-time ISL recognition with **95.2% accuracy**
-- Supports **14+ Indian languages**
-- Built using PyTorch, MediaPipe, OpenCV, and Azure services
+A real-time computer vision pipeline that translates hand gestures into text and speech.  
+Built to explore accuracy, latency, and usability in accessibility-driven AI.
 
 ---
 
-## Focus Areas
+### How I Think About Systems
 
-- Computer vision pipelines and model optimization  
-- Backend systems for ML-powered applications  
-- Learning deployment and MLOps fundamentals  
+- Start simple, validate early  
+- Treat models as components, not endpoints  
+- Optimize for clarity, not cleverness  
+- Iterate in public and learn from failure  
 
 ---
 
-## GitHub
+### Currently Exploring
+
+- Improving robustness of vision-based models  
+- Real-time inference optimization  
+- Backend patterns for ML-powered applications  
+
+---
+
+### GitHub Snapshot
 
 <div align="center">
 
@@ -61,9 +59,9 @@ https://github.com/vishal0136/VediSpeak
 
 ---
 
-## Contact
+### Let’s Connect
+
+If you’re working on AI, computer vision, or accessibility-focused technology, I’m always open to thoughtful collaboration.
 
 Email: itsvishal0189@gmail.com  
 LinkedIn: https://www.linkedin.com/in/vishal-rohilla-1a870929a/
-
-Open to collaboration and learning opportunities in AI/ML and backend development.
