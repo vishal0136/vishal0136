@@ -121,18 +121,6 @@ PyTorch · MediaPipe · OpenCV · Azure Cognitive Services
 <li>Text and speech output via Azure Cognitive Services</li>
 </ol>
 
----
-
-## Current Focus Areas
-
-<ul>
-<li>Improving robustness of deep learning models</li>
-<li>Dataset optimization and augmentation strategies</li>
-<li>Backend integration for ML systems</li>
-<li>Learning deployment workflows and MLOps fundamentals</li>
-</ul>
-
----
 
 ## Development Philosophy
 
